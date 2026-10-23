@@ -1,7 +1,7 @@
 # Project: FinTech RAG Assistant
 
 > **Module:** [Month 6 — Generative AI and RAG](../../06-generative-ai-and-rag/README.md)  
-> **Master Roadmap:** [6-Month-Interview-Roadmap.md](../../6-Month-Interview-Roadmap.md#march-2027--generative-ai-and-rag)
+> **Master Roadmap:** [6-Month-Interview-Roadmap.md](../../6-Month-Interview-Roadmap.md#month-6--generative-ai-and-rag)
 
 ---
 

@@ -1,8 +1,8 @@
 # Month 1 — Core Java and Fundamentals
 
-> **Timeline:** October 2026  
+> **Timeline:** Month 1 (Self-Paced / 4 Weeks)  
 > **Target Proficiency:** ⭐⭐⭐⭐⭐  
-> **Master Roadmap:** [6-Month-Interview-Roadmap.md](../6-Month-Interview-Roadmap.md#october-2026--core-java-and-fundamentals) | [Repository README](../README.md)
+> **Master Roadmap:** [6-Month-Interview-Roadmap.md](../6-Month-Interview-Roadmap.md#month-1--core-java-and-fundamentals) | [Repository README](../README.md)
 
 ---
 
@@ -31,10 +31,10 @@ Month 1 establishes foundational mastery of the Java language, memory mechanics,
 
 1. **Core Java & Memory Model:**
    - Stack vs. Heap allocation, pass-by-value semantics.
-   - `Object` class contracts: `equals()`, `hashCode()`, `toString()`, `clone()`.
+   - `Object` base class methods: contract between `equals()` and `hashCode()`, `toString()`, `clone()`.
    - String interning, String Pool mechanics, `String` vs. `StringBuilder` vs. `StringBuffer`.
 2. **Collections Framework Internals:**
-   - `List` (`ArrayList` resizing formula, `LinkedList`).
+   - `List` (`ArrayList` resizing math, `LinkedList`).
    - `Map` (`HashMap` hashing, treeification to Red-Black tree at threshold 8, `ConcurrentHashMap` CAS + sync).
    - `Set` (`HashSet`, `TreeSet`, `LinkedHashSet`).
    - `Comparable` vs. `Comparator`, Fail-Fast vs. Fail-Safe iterators.

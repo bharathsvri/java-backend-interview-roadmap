@@ -1,8 +1,8 @@
 # Month 5 — System Design and Distributed Systems
 
-> **Timeline:** February 2027  
+> **Timeline:** Month 5 (Self-Paced / 4 Weeks)  
 > **Target Proficiency:** ⭐⭐⭐⭐⭐  
-> **Master Roadmap:** [6-Month-Interview-Roadmap.md](../6-Month-Interview-Roadmap.md#february-2027--system-design-and-distributed-systems) | [Repository README](../README.md)
+> **Master Roadmap:** [6-Month-Interview-Roadmap.md](../6-Month-Interview-Roadmap.md#month-5--system-design-and-distributed-systems) | [Repository README](../README.md)
 
 ---
 

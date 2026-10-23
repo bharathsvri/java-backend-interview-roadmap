@@ -8,10 +8,10 @@ This directory houses the flagship production-grade engineering projects designe
 
 ## 🚀 Projects Overview
 
-| Project | Month | Focus Domains | Tech Stack | Status |
+| Project | Milestone | Focus Domains | Tech Stack | Status |
 | :--- | :---: | :--- | :--- | :---: |
-| **[FinTech RAG Assistant](./fintech-rag-assistant/)** | Month 6 (March 2027) | Document Intelligence, Regulatory Compliance, Vector Search | Spring Boot 3, Spring AI, PostgreSQL `pgvector`, Spring WebFlux (SSE), Docker | ⏳ Planned |
-| **[FinBank + GenAI Platform](./finbank-genai-platform/)** | Month 7 (April 2027) | Core Banking, Double-Entry Ledger, Event Streaming, MCP, Autonomous Agents | Spring Boot 3, Apache Kafka, Redis, PostgreSQL, Spring AI, Model Context Protocol (MCP), Kubernetes | ⏳ Planned |
+| **[FinTech RAG Assistant](./fintech-rag-assistant/)** | Month 6 | Document Intelligence, Regulatory Compliance, Vector Search | Spring Boot 3, Spring AI, PostgreSQL `pgvector`, Spring WebFlux (SSE), Docker | ⏳ Planned |
+| **[FinBank + GenAI Platform](./finbank-genai-platform/)** | Month 7 (Capstone) | Core Banking, Double-Entry Ledger, Event Streaming, MCP, Autonomous Agents | Spring Boot 3, Apache Kafka, Redis, PostgreSQL, Spring AI, Model Context Protocol (MCP), Kubernetes | ⏳ Planned |
 
 ---
 

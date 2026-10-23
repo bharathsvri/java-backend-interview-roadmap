@@ -39,7 +39,7 @@ When responding to behavioral and leadership interview prompts, structure every 
 
 ---
 
-## 🎯 Target Mock Interview Schedule (April 2027)
+## 🎯 Target Mock Interview Schedule (Month 7)
 
 - **2x Live Java & Concurrency Coding Mocks:** Whiteboard implementation of concurrent queues, thread pools, custom collections, and Virtual Thread patterns.
 - **2x High-Level System Design Mocks:** End-to-end design defense for Payment Gateways, Double-Entry Ledgers, or Order Matching Engines.

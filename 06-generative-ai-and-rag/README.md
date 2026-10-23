@@ -1,8 +1,8 @@
 # Month 6 — Generative AI and RAG
 
-> **Timeline:** March 2027  
+> **Timeline:** Month 6 (Self-Paced / 4 Weeks)  
 > **Target Proficiency:** ⭐⭐⭐⭐⭐  
-> **Master Roadmap:** [6-Month-Interview-Roadmap.md](../6-Month-Interview-Roadmap.md#march-2027--generative-ai-and-rag) | [Repository README](../README.md)
+> **Master Roadmap:** [6-Month-Interview-Roadmap.md](../6-Month-Interview-Roadmap.md#month-6--generative-ai-and-rag) | [Repository README](../README.md)
 
 ---
 

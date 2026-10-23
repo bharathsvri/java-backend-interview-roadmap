@@ -1,8 +1,8 @@
 # Month 7 — MCP, Agents, and Final Revision
 
-> **Timeline:** April 2027  
+> **Timeline:** Month 7 (Self-Paced / 4 Weeks)  
 > **Target Proficiency:** ⭐⭐⭐⭐⭐  
-> **Master Roadmap:** [6-Month-Interview-Roadmap.md](../6-Month-Interview-Roadmap.md#april-2027--mcp-agents-and-final-revision) | [Repository README](../README.md)
+> **Master Roadmap:** [6-Month-Interview-Roadmap.md](../6-Month-Interview-Roadmap.md#month-7--mcp-agents-and-final-revision) | [Repository README](../README.md)
 
 ---
 

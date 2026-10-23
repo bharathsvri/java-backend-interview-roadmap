@@ -1,8 +1,8 @@
 # Month 4 — Kafka, Cloud, and Infrastructure
 
-> **Timeline:** January 2027  
+> **Timeline:** Month 4 (Self-Paced / 4 Weeks)  
 > **Target Proficiency:** ⭐⭐⭐⭐⭐  
-> **Master Roadmap:** [6-Month-Interview-Roadmap.md](../6-Month-Interview-Roadmap.md#january-2027--kafka-cloud-and-infrastructure) | [Repository README](../README.md)
+> **Master Roadmap:** [6-Month-Interview-Roadmap.md](../6-Month-Interview-Roadmap.md#month-4--kafka-cloud-and-infrastructure) | [Repository README](../README.md)
 
 ---
 

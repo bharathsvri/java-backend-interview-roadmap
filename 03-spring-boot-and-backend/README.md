@@ -1,8 +1,8 @@
 # Month 3 — Spring Boot and Backend Development
 
-> **Timeline:** December 2026  
+> **Timeline:** Month 3 (Self-Paced / 4 Weeks)  
 > **Target Proficiency:** ⭐⭐⭐⭐⭐  
-> **Master Roadmap:** [6-Month-Interview-Roadmap.md](../6-Month-Interview-Roadmap.md#december-2026--spring-boot-and-backend-development) | [Repository README](../README.md)
+> **Master Roadmap:** [6-Month-Interview-Roadmap.md](../6-Month-Interview-Roadmap.md#month-3--spring-boot-and-backend-development) | [Repository README](../README.md)
 
 ---
 

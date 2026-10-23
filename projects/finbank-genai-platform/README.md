@@ -1,7 +1,7 @@
 # Capstone Project: FinBank + GenAI Platform
 
 > **Module:** [Month 7 — MCP, Agents, and Final Revision](../../07-mcp-agents-and-final-revision/README.md)  
-> **Master Roadmap:** [6-Month-Interview-Roadmap.md](../../6-Month-Interview-Roadmap.md#april-2027--mcp-agents-and-final-revision)
+> **Master Roadmap:** [6-Month-Interview-Roadmap.md](../../6-Month-Interview-Roadmap.md#month-7--mcp-agents-and-final-revision)
 
 ---
 

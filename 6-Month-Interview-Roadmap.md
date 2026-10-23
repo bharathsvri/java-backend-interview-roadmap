@@ -1,6 +1,6 @@
 # 6-Month Interview Preparation Roadmap
 
-> **Timeline:** October 2026 – April 2027  
+> **Timeline:** 6–7 Months (Self-Paced / Milestone-Driven)  
 > **Target Roles:** Senior Java Backend Engineer, Distributed Systems Engineer, FinTech Software Engineer, AI Platform / GenAI Backend Engineer  
 > **Focus Domains:** Core & Modern Java, Concurrency & JVM Internals, Spring Boot & Microservices, Distributed Systems & FinTech Architecture, Event Streaming & Cloud Infrastructure, Generative AI & Model Context Protocol (MCP)
 
@@ -8,7 +8,7 @@
 
 ## Overview
 
-This comprehensive 6-month preparation roadmap is structured to guide backend engineers from foundational mastery through modern enterprise distributed systems and cutting-edge Generative AI engineering. Spanning from **October 2026 through April 2027**, the curriculum systematically covers:
+This comprehensive 6-month preparation roadmap is structured to guide backend engineers from foundational mastery through modern enterprise distributed systems and cutting-edge Generative AI engineering. Spanning from **Month 1 through Month 7**, the curriculum systematically covers:
 
 - **Advanced Java & JVM:** Memory model, class loading, garbage collection tuning, multithreading, and modern Java (Java 8 through Java 21+ Virtual Threads).
 - **Backend & Enterprise Frameworks:** Spring Boot, Spring Security, Spring Data JPA/Hibernate, ACID transactions, and Microservices design.
@@ -31,18 +31,18 @@ This comprehensive 6-month preparation roadmap is structured to guide backend en
 
 ## Table of Contents
 
-1. [October 2026 — Core Java and Fundamentals](#october-2026--core-java-and-fundamentals)
-2. [November 2026 — Concurrency and JVM](#november-2026--concurrency-and-jvm)
-3. [December 2026 — Spring Boot and Backend Development](#december-2026--spring-boot-and-backend-development)
-4. [January 2027 — Kafka, Cloud, and Infrastructure](#january-2027--kafka-cloud-and-infrastructure)
-5. [February 2027 — System Design and Distributed Systems](#february-2027--system-design-and-distributed-systems)
-6. [March 2027 — Generative AI and RAG](#march-2027--generative-ai-and-rag)
-7. [April 2027 — MCP, Agents, and Final Revision](#april-2027--mcp-agents-and-final-revision)
+1. [Month 1 — Core Java and Fundamentals](#month-1--core-java-and-fundamentals)
+2. [Month 2 — Concurrency and JVM](#month-2--concurrency-and-jvm)
+3. [Month 3 — Spring Boot and Backend Development](#month-3--spring-boot-and-backend-development)
+4. [Month 4 — Kafka, Cloud, and Infrastructure](#month-4--kafka-cloud-and-infrastructure)
+5. [Month 5 — System Design and Distributed Systems](#month-5--system-design-and-distributed-systems)
+6. [Month 6 — Generative AI and RAG](#month-6--generative-ai-and-rag)
+7. [Month 7 — MCP, Agents, and Final Revision](#month-7--mcp-agents-and-final-revision)
 8. [Final Interview Preparation Checklist](#final-interview-preparation-checklist)
 
 ---
 
-## October 2026 — Core Java and Fundamentals
+## Month 1 — Core Java and Fundamentals
 
 ### Monthly Study Plan
 
@@ -64,7 +64,7 @@ This comprehensive 6-month preparation roadmap is structured to guide backend en
 
 ---
 
-## November 2026 — Concurrency and JVM
+## Month 2 — Concurrency and JVM
 
 ### Monthly Study Plan
 
@@ -86,7 +86,7 @@ This comprehensive 6-month preparation roadmap is structured to guide backend en
 
 ---
 
-## December 2026 — Spring Boot and Backend Development
+## Month 3 — Spring Boot and Backend Development
 
 ### Monthly Study Plan
 
@@ -111,7 +111,7 @@ This comprehensive 6-month preparation roadmap is structured to guide backend en
 
 ---
 
-## January 2027 — Kafka, Cloud, and Infrastructure
+## Month 4 — Kafka, Cloud, and Infrastructure
 
 ### Monthly Study Plan
 
@@ -135,7 +135,7 @@ This comprehensive 6-month preparation roadmap is structured to guide backend en
 
 ---
 
-## February 2027 — System Design and Distributed Systems
+## Month 5 — System Design and Distributed Systems
 
 ### Monthly Study Plan
 
@@ -151,13 +151,13 @@ This comprehensive 6-month preparation roadmap is structured to guide backend en
 ### Monthly Milestones
 
 - Master the end-to-end System Design framework, confidently driving requirements, capacity estimation, high-level architecture, and deep dives.
-- Clearly defend distributed consistency patterns: Sagas, Transactional Outbox, Event Sourcing, and distributed locking.
+- Clearly defend distributed consistency patterns: Sagas, Outbox, and Event Sourcing.
 - Demonstrate authoritative knowledge of FinTech system designs: Double-Entry Ledgers, Payment Gateways, and high-frequency Order Matching Engines.
 - Complete the core DSA curriculum, hitting 125–150 problems with mastery over Dynamic Programming, Backtracking, and Greedy patterns.
 
 ---
 
-## March 2027 — Generative AI and RAG
+## Month 6 — Generative AI and RAG
 
 ### Monthly Study Plan
 
@@ -181,7 +181,7 @@ This comprehensive 6-month preparation roadmap is structured to guide backend en
 
 ---
 
-## April 2027 — MCP, Agents, and Final Revision
+## Month 7 — MCP, Agents, and Final Revision
 
 ### Monthly Study Plan
 

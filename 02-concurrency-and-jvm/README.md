@@ -1,8 +1,8 @@
 # Month 2 — Concurrency and JVM
 
-> **Timeline:** November 2026  
+> **Timeline:** Month 2 (Self-Paced / 4 Weeks)  
 > **Target Proficiency:** ⭐⭐⭐⭐⭐  
-> **Master Roadmap:** [6-Month-Interview-Roadmap.md](../6-Month-Interview-Roadmap.md#november-2026--concurrency-and-jvm) | [Repository README](../README.md)
+> **Master Roadmap:** [6-Month-Interview-Roadmap.md](../6-Month-Interview-Roadmap.md#month-2--concurrency-and-jvm) | [Repository README](../README.md)
 
 ---
 
@@ -40,7 +40,7 @@ Month 2 focuses on high-concurrency systems programming, the Java Memory Model (
    - Synchronization utilities (`CountDownLatch`, `CyclicBarrier`, `Semaphore`, `ReentrantLock`).
    - Atomic variables, CAS mechanics, and `LongAdder`.
 3. **JVM Runtime Data Areas:**
-   - Heap (Eden, Survivor, Tenured), Metaspace, Stacks, PC Registers, Native Stacks.
+   - Heap (Eden, Survivor spaces S0/S1, Old Generation), Metaspace, Stacks, PC Registers, Native Stacks.
    - ClassLoader hierarchy and Parent Delegation model. JIT compiler (C1, C2, Tiered).
 4. **Garbage Collection & Tuning:**
    - Generational hypothesis, STW pauses, G1 GC, ZGC, Shenandoah.
